@@ -1,0 +1,7 @@
+C:\Users\HP DX\source\repos\Ikizkenar _Dik_Ucgen_Cizim_Console\Ikizkenar _Dik_Ucgen_Cizim_Console\bin\Debug\Ikizkenar _Dik_Ucgen_Cizim_Console.exe.config
+C:\Users\HP DX\source\repos\Ikizkenar _Dik_Ucgen_Cizim_Console\Ikizkenar _Dik_Ucgen_Cizim_Console\bin\Debug\Ikizkenar _Dik_Ucgen_Cizim_Console.exe
+C:\Users\HP DX\source\repos\Ikizkenar _Dik_Ucgen_Cizim_Console\Ikizkenar _Dik_Ucgen_Cizim_Console\bin\Debug\Ikizkenar _Dik_Ucgen_Cizim_Console.pdb
+C:\Users\HP DX\source\repos\Ikizkenar _Dik_Ucgen_Cizim_Console\Ikizkenar _Dik_Ucgen_Cizim_Console\obj\Debug\Ikizkenar _Dik_Ucgen_Cizim_Console.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\Ikizkenar _Dik_Ucgen_Cizim_Console\Ikizkenar _Dik_Ucgen_Cizim_Console\obj\Debug\Ikizkenar _Dik_Ucgen_Cizim_Console.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\Ikizkenar _Dik_Ucgen_Cizim_Console\Ikizkenar _Dik_Ucgen_Cizim_Console\obj\Debug\Ikizkenar _Dik_Ucgen_Cizim_Console.exe
+C:\Users\HP DX\source\repos\Ikizkenar _Dik_Ucgen_Cizim_Console\Ikizkenar _Dik_Ucgen_Cizim_Console\obj\Debug\Ikizkenar _Dik_Ucgen_Cizim_Console.pdb
